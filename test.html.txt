@@ -7,8 +7,8 @@
     <title>Vite App</title>
   </head>
   <body>
-    <div id="app"></div>
+    <div id="app">fff</div>
     <script type="module" src="/src/main.js"></script>
- <div id="app">'rrrr'gggggccc</div>
+ <div id="app">'rrrr'ggggfffgccc</div>
   </body>
 </html>
